@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""tests for hello.py"""
+"""tests for say_hello.py"""
 
 import os
 from subprocess import getstatusoutput, getoutput
