@@ -2,8 +2,8 @@
 
 """
 Author: Maxat Akbanov
-Description: Simple program to output "Hello World" into stdout
-Usage: ./hello_world.py --name [your_name]
+Description: Simple program to output greeting into the stdout
+Usage: ./say_hello.py --name [your_name]
 """
 
 import argparse
